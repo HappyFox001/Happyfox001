@@ -2,7 +2,9 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="重生" src="./assets/重生.png" />
+<img align="right" height="270px" width="450px" alt="重生" src="./assets/重生.png" >
+
+<br />
 
 # Welcome to Know Me
 
