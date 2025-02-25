@@ -1,8 +1,8 @@
 ### Hi there, I'm [0xhacker](https://hemant.codes)
 
-<br />
-
-<img align="right" height="270px" width="450px" alt="重生" src="./assets/重生.png" >
+<p align="center">
+<img height="270px" width="450px" alt="重生" src="./assets/重生.png" >
+</p>
 
 <br />
 
