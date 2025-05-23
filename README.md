@@ -1,50 +1,37 @@
-### Hi there, I'm [0xhacker](https://hemant.codes)
+<h1 align="center">Hi, I'm [0xhacker] 👋</h1>
 
 <p align="center">
-<img height="450px" width="1000px" alt="重生" src="./assets/重生.png" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DApp+Hackathon+Winner;Next+AI+Roleplay+Platform" alt="Typing SVG" />
 </p>
 
-<br />
+---
 
-# Welcome to Know Me
+## 🏆 Highlights
 
-## 👨‍💻 0xhacker | 21 years old
+- 🥇 **Polkadot 2024 DApp Track Winner** — $10,000 Prize  
+- 🏅 **Aptos Hackathon** — Best Creativity Award  
 
-Website: https://0xhacker.dev/
+---
 
-🎓 Junior in Communication Engineering at Wuhan University  
-📖 Breaking free from exam-oriented education  
-🚀 Aspiring entrepreneur  
-🔥 Building strength
+## 🛠 Tech Stack
 
-## Skills & Projects
-💡 Full Stack Engineer | Solidity Smart Contract Developer
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B4D8?style=flat&logo=langchain&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-🚀 Portfolio:
-- 🌍 Personal Website
-- 🤖 Trading Bot
-- 🎰 On-chain ZK Casino
-- 🗣️ Natural Language Trading
-- 🚗 Smart Car Navigation
-- ⚡ BTC Trading Risk Detection
+---
 
-## Open Source
-🌱 Open Source Beginner  
-🔓 Ready to step into the open source world!
+## 🚀 Building Now: [Narratium.ai](https://github.com/Narratium/Narratium.ai)
 
-## Experience
-📊 Investment Research Intern at Trustless Lab
-- 📝 10+ Research Reports
-- 📈 In-depth research on Web3 projects
-
-## Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<p align="left">
+  <a href="https://github.com/Narratium/Narratium.ai">
+    <img src="https://img.shields.io/github/stars/Narratium/Narratium.ai?style=for-the-badge" alt="Repo Stars" />
+  </a>
 </p>
+
+> **Narratium.ai** — I am building the next vscode for AI-powered roleplay and narrative adventures.
+> Powered by LangChain, built for creators who dream in stories and code.
+
