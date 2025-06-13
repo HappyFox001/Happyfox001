@@ -8,10 +8,19 @@
 
 ## 🏆 Highlights
 
-- 🥇 **Polkadot 2024 DApp Track Winner** — $10,000 Prize  
-- 🏅 **Aptos Hackathon** — Best Creativity Award  
+![Polkadot 2024](https://img.shields.io/badge/Polkadot%202024-🥇%20DApp%20Track%20Winner-%23e6007a?style=flat-square&logo=polkadot&logoColor=white)
+![Aptos Hackathon](https://img.shields.io/badge/Aptos-Best%20Creativity%20Award-%23000000?style=flat-square&logo=aptos&logoColor=white)
+![ETH Beijing](https://img.shields.io/badge/ETH%20Beijing-Finalist-%23006aff?style=flat-square&logo=ethereum)
+![Agentic Ethereum](https://img.shields.io/badge/Agentic%20Ethereum-Excellent%20Project-%234b0082?style=flat-square&logo=ethereum)
+![Base Asia Night](https://img.shields.io/badge/Base%20Asia%20Night-Finalist-%23127efc?style=flat-square&logo=base&logoColor=white)
+![Consensus HK](https://img.shields.io/badge/Consensus%20HK-Participant-%23003366?style=flat-square)
+![Spark AI](https://img.shields.io/badge/Spark%20Lab%20AI-Best%20Innovation-%23ff6f00?style=flat-square&logo=sparkfun)
+![Spark AI](https://img.shields.io/badge/Spark%20Lab%20AI-Best%20Design%20Award-%234a148c?style=flat-square&logo=sparkfun)
+![Spark AI](https://img.shields.io/badge/Spark%20Lab%20AI-Best%20Technical%20Implementation%20Award-%23007aff?style=flat-square&logo=sparkfun)
 
 ---
+
+<p align="center">
 
 ## 🛠 Tech Stack
 
