@@ -14,7 +14,7 @@
 | MY TECH |
 | :-------------- |
 
-[![My Tech Stack](https://mobaicons.com/icons/python,rust,typescript,javascript,nextjs,react,react-router,tailwindcss,shadcn,zustand,prisma,trpc,postgresql,mysql,nodejs,fastapi,nestjs,supabase,clerk,electron,tauri,zod,i18next,vite,redux,pinia,unocss,headlessui,mui,daisyui,motion,grpc,hono,elysiajs,salvo,tamagui,inlang,go,lua,zig,qt,astro,nuxtjs,preact,npm,yarn,eslint,prettier,markdown?sort)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![My Tech Stack](https://mobaicons.com/icons/python,rust,typescript,javascript,nextjs,react,react-router,tailwindcss,shadcn,zustand,prisma,trpc,postgresql,mysql,nodejs,fastapi,nestjs,supabase,clerk,electron,tauri,zod,i18next,vite,redux,pinia,headlessui,mui,daisyui,motion,grpc,hono,elysiajs,salvo,inlang,go,qt,astro,nuxtjs,preact,npm,yarn,eslint,prettier,markdown?sort)](https://github.com/Artist-MOBAI/MOBAIcons)
 
 ---
 
