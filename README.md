@@ -18,7 +18,8 @@
 
 ---
 
-| What I am Building  |
+| What I Built  |
 | :-------------- |
-[Narratium: Open Source Alternative to Character.AI, MidReal and AI Dungeon](https://github.com/Narratium/Narratium.ai)
-[![Narratium.ai](./image/banner.png)](https://github.com/Narratium/Narratium.ai)
+[AI-Chat: An Open Source AI Chat Project](https://github.com/aichat-momo/AI-Chat) (Discontinued)
+
+[HackerNote: An iOS Note-Taking App](https://apps.apple.com/app/hackernote)
